@@ -1,0 +1,16 @@
+{
+    "debug":true,
+    "port":3001,
+    "heartTime":60000,
+    "DBManager": {
+        "ip": "101.37.87.135",
+        "port": 6379,
+        "select": 1,
+        "flag": {
+        "auth_pass": "cdj@test"
+        }
+    },
+    "tokenServer":{
+        "url":"http://101.37.170.209:3002"
+    }
+}

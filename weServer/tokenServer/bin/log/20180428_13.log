@@ -1,0 +1,4 @@
+
+[2018-4-28 13:05:25][app]process server: TokenServer.js...
+[2018-4-28 13:05:25][app]register URL mapping: POST /token/getToken
+[2018-4-28 13:05:25][app]register URL mapping: POST /token/refreshToken

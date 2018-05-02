@@ -1,0 +1,27 @@
+[ERR!] cwd  : F:\work\trunck\koaTest
+[ERR!] os   : Windows_NT 10.0.15063
+[ERR!] argv : "C:\\Program Files\\nodejs\\node.exe" "C:\\Users\\56455\\AppData\\Roaming\\npm\\node_modules\\tsd\\build\\cli.js" "install" "koa" "--save"
+[ERR!] node : v8.11.1
+[ERR!] tsd  : 0.6.5
+[ERR!] Error: connect ETIMEDOUT 54.169.195.247:443
+[ERR!] CODE : ETIMEDOUT
+[ERR!] connect ETIMEDOUT 54.169.195.247:443
+This is most likely not a problem with tsd itself
+and is related to network connectivity.
+In most cases you are behind a proxy or have bad network settings.
+
+If you are behind a proxy, please make sure that the
+'proxy' config is set properly.  See: https://github.com/DefinitelyTyped/tsd#tsdrc
+[ERR!] 
+Error: connect ETIMEDOUT 54.169.195.247:443
+    at Object._errnoException (util.js:1022:11)
+    at _exceptionWithHostPort (util.js:1044:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1198:14)
+
+[ERR!] tsd.json could not be retrieved
+
+[ERR!] .tsdrc could not be retrieved
+
+[ERR!] Please include the following file with any support request:
+    F:\work\trunck\koaTest\tsd-debug.log
+

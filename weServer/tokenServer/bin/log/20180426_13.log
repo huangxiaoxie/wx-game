@@ -1,0 +1,24 @@
+
+[2018-4-26 13:01:00][app]process server: TokenServer.js...
+[2018-4-26 13:01:00][app]register URL mapping: POST /token/getToken
+[2018-4-26 13:01:00][app]register URL mapping: POST /token/refreshToken
+[2018-4-26 13:01:48][app]Process POST/token/getToken
+[2018-4-26 13:01:49][token]wxef0b425831a24d44-----9030ce8d27e72c900e810e035a9e0e05---token获取成功{"access_token":"9_rnK7SPh2gdPNmQJQtz3ub9oY-AaKYAle7erBu5w7dCXm5MnVpT4TUDaHo0BflGpZvv9RiAf_Ae-A_8xxt5uwPmRCN2Ba--fc_ReC1jXkRwBpUBraYqs7l9yi9oWuAyDNFcEaP7Tcc4_rkIlITTJeABACCS","expires_in":7200}
+[2018-4-26 13:02:17][app]Process POST/token/getToken
+[2018-4-26 13:02:17][token]wxef0b425831a24d44-----9030ce8d27e72c900e810e035a9e0e05---token获取成功{"access_token":"9_fyOjGMVOElo4E_NixbKZUIqtSYXoxVnbt2OE8y13rrTDntehx4Tf6kOxP0f1-7prNh4ema3Ufr7HMwT2XzGv6lZ6XejQ4kUs7oGpNg-DruB7RqDk7ZrdSn8wqDMmzZEEnCZWu2vfQty4uXw5VUDdAJAMLU","expires_in":7200}
+[2018-4-26 13:02:58][app]process server: TokenServer.js...
+[2018-4-26 13:02:58][app]register URL mapping: POST /token/getToken
+[2018-4-26 13:02:58][app]register URL mapping: POST /token/refreshToken
+[2018-4-26 13:03:01][app]Process POST/token/getToken
+[2018-4-26 13:03:04][app]Process POST/token/getToken
+[2018-4-26 13:03:05][app]Process POST/token/getToken
+[2018-4-26 13:03:05][app]Process POST/token/getToken
+[2018-4-26 13:03:05][token]wxef0b425831a24d44-----9030ce8d27e72c900e810e035a9e0e05---token获取成功{"access_token":"9_HMs3FprqJcoBn0WlQcbLepc8O6MHyzogTqB9kDqcR3PaQdTFltR1Kaag1UY6PCEfO6MAtLheQZbSXs-rK8--fCxz6gqc_bPFvAnbGPAt99Ty0VPEmvXDtsQ4LcsBXKcAEAWSF","expires_in":7200}
+[2018-4-26 13:03:05][token]wxef0b425831a24d44-----9030ce8d27e72c900e810e035a9e0e05---token获取成功{"access_token":"9_-qMYqe6Ldi6UkoUYQcbLepc8O6MHyzogTqB9kDqcR3PaQdTFltR1Kaag1Ua33nDFByjZIxd1Lnp4WvgYd_Llj43ArVKujoXJJbvUMyvnSJYIH9-qGrRtACK7Rw8ZSScAEAEXX","expires_in":7200}
+[2018-4-26 13:03:05][token]wxef0b425831a24d44-----9030ce8d27e72c900e810e035a9e0e05---token获取成功{"access_token":"9_3s0lMkfLc_jg5qILQcbLepc8O6MHyzogTqB9kDqcR3PaQdTFltR1Kaag1UbCWwCTSDcDCjGO13UzSu0q4u3ueY1M7HG2ss7cyWuBdmTYUS74bBM1C2fNc38y5XMTYEcAEABGM","expires_in":7200}
+[2018-4-26 13:03:05][token]wxef0b425831a24d44-----9030ce8d27e72c900e810e035a9e0e05---token获取成功{"access_token":"9_B4GcFcedb9cpl2FJQcbLepc8O6MHyzogTqB9kDqcR3PaQdTFltR1Kaag1UbmG3Gm9PRO4-5DDnZuxwDYyCgjFcVeoN24lqCOtAvxc6U3EWfZKwmekxYnUXfD4Y8CRHcAEAWLB","expires_in":7200}
+[2018-4-26 13:03:05][token]wxef0b425831a24d44-----9030ce8d27e72c900e810e035a9e0e05---token获取成功{"access_token":"9_9Tjgt50gjIC6Tbf2QcbLepc8O6MHyzogTqB9kDqcR3PaQdTFltR1Kaag1UZr571ja6QVNSJANodmFpcmCG_VzTlBIHgcIsXcQcYkCJB9yMYYFeLAd2-tgAYxiRsNRXcAEABFL","expires_in":7200}
+[2018-4-26 13:03:15][app]Process POST/token/getToken
+[2018-4-26 13:03:34][app]Process POST/token/getToken
+[2018-4-26 13:07:43][app]Process POST/token/getToken
+[2018-4-26 13:17:16][app]Process POST/token/getToken

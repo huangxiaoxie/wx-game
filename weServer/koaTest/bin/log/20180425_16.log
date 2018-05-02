@@ -1,0 +1,8 @@
+[2018-4-25 16:20:25][login]{"session_key":"Qa05Lv2U3qofD8Gjnq0Ecg==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}[2018-4-25 16:20:25][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}[2018-4-25 16:21:27][login]{"session_key":"Qa05Lv2U3qofD8Gjnq0Ecg==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-25 16:21:28][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-25 16:25:10][login]{"session_key":"lYexnlCypYqXA/4hUc7jHg==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-25 16:25:11][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-25 16:25:49][login]{"session_key":"lYexnlCypYqXA/4hUc7jHg==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-25 16:25:50][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-25 16:26:13][login]{"session_key":"lYexnlCypYqXA/4hUc7jHg==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-25 16:26:13][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":99999,"gen_balance":99999,"first_save":1,"save_amt":0,"save_sum":100000,"cost_sum":1,"present_sum":100000}

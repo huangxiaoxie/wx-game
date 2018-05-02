@@ -1,0 +1,109 @@
+
+[2018-4-26 15:07:48][app]process server: LoginServer.js...
+[2018-4-26 15:07:48][app]register URL mapping: GET /login/
+[2018-4-26 15:07:48][app]register URL mapping: POST /login/:method
+[2018-4-26 15:07:48][app]process server: PayServer.js...
+[2018-4-26 15:07:48][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 15:07:48][app]register URL mapping: POST /pay/pay
+[2018-4-26 15:07:48][app]register URL mapping: POST /pay/present
+[2018-4-26 15:07:48][netmgr]STATUS: 200
+[2018-4-26 15:07:48][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 07:07:48 GMT","connection":"close"}
+[2018-4-26 15:07:48][login]token获取成功9_dHr6TNqe3wcw3tKo8Ri2Mikfee-Guf5vh_J1tov8c-frM6sdoREHlDKw7ByQuEXOonIFxhGy5sC98WWG694zpkzvZk0q1q7byHCnFdjgqt6EJ4GKcE-2yRog8i4z6RWe6gxTflbmhY-kj2LPMHReAIAEZJ
+[2018-4-26 15:07:56][app]Process POST/login/login/
+[2018-4-26 15:07:56][login]{"session_key":"0g7dvox9piZOo0vRJcJhgA==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:07:56][app]Process POST/pay/getBalance/
+[2018-4-26 15:07:57][netmgr]STATUS: 200
+[2018-4-26 15:07:57][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Thu, 26 Apr 2018 07:07:57 GMT","content-length":"141"}
+[2018-4-26 15:07:57][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-26 15:08:10][app]Process POST/login/login/
+[2018-4-26 15:08:11][login]{"session_key":"0g7dvox9piZOo0vRJcJhgA==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:08:11][app]Process POST/pay/getBalance/
+[2018-4-26 15:08:11][netmgr]STATUS: 200
+[2018-4-26 15:08:11][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Thu, 26 Apr 2018 07:08:11 GMT","content-length":"141"}
+[2018-4-26 15:08:11][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-26 15:08:32][app]Process POST/login/login/
+[2018-4-26 15:08:32][login]{"session_key":"0g7dvox9piZOo0vRJcJhgA==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:08:32][app]Process POST/pay/getBalance/
+[2018-4-26 15:08:32][netmgr]STATUS: 200
+[2018-4-26 15:08:32][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Thu, 26 Apr 2018 07:08:32 GMT","content-length":"141"}
+[2018-4-26 15:08:32][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-26 15:09:24][app]Process POST/login/login/
+[2018-4-26 15:09:24][login]{"session_key":"7+Dp8UQ3CdcTHtPSsFqlZw==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:09:24][app]Process POST/pay/getBalance/
+[2018-4-26 15:09:24][netmgr]STATUS: 200
+[2018-4-26 15:09:24][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Thu, 26 Apr 2018 07:09:24 GMT","content-length":"141"}
+[2018-4-26 15:09:24][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-26 15:10:00][app]Process POST/login/login/
+[2018-4-26 15:10:00][login]{"session_key":"v8SvyZUEBYQuMLgwWNYRGw==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:10:00][app]Process POST/pay/getBalance/
+[2018-4-26 15:10:00][netmgr]STATUS: 200
+[2018-4-26 15:10:00][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Thu, 26 Apr 2018 07:10:00 GMT","content-length":"141"}
+[2018-4-26 15:10:00][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-26 15:10:19][app]Process POST/login/login/
+[2018-4-26 15:10:20][login]{"session_key":"v8SvyZUEBYQuMLgwWNYRGw==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:10:20][app]Process POST/pay/getBalance/
+[2018-4-26 15:10:20][netmgr]STATUS: 200
+[2018-4-26 15:10:20][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Thu, 26 Apr 2018 07:10:20 GMT","content-length":"141"}
+[2018-4-26 15:10:20][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-26 15:10:50][app]Process POST/login/login/
+[2018-4-26 15:10:50][login]{"session_key":"Hq16K5+wsdWdYKQn62i4/g==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:10:50][app]Process POST/pay/getBalance/
+[2018-4-26 15:10:50][netmgr]STATUS: 200
+[2018-4-26 15:10:50][netmgr]HEADERS: {"connection":"close","date":"Thu, 26 Apr 2018 07:10:50 GMT","content-type":"application/json; encoding=utf-8","content-length":"110"}
+[2018-4-26 15:10:51][netmgr]STATUS: 200
+[2018-4-26 15:10:51][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 07:10:50 GMT","connection":"close"}
+[2018-4-26 15:10:51][login]token获取成功9_6-KXN4OoBMTF2rSwhpAeO30bCeiFYXn8bvUZh53z4bJdlw58cPGPlsUe-Ld7YIvEs5bLxnpgxV7yDPm6Al9s1pA2BB6llnT1uMhD8pifXCj2UfsDiLnPdRe_jhUsvYY6HPtRx_y_6GMs-gRAUGGeABAFRR
+[2018-4-26 15:11:00][app]Process POST/login/login/
+[2018-4-26 15:11:00][login]{"session_key":"Hq16K5+wsdWdYKQn62i4/g==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:11:00][app]Process POST/pay/getBalance/
+[2018-4-26 15:11:01][netmgr]STATUS: 200
+[2018-4-26 15:11:01][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Thu, 26 Apr 2018 07:11:01 GMT","content-length":"141"}
+[2018-4-26 15:11:01][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9997,"gen_balance":9990,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":17,"present_sum":10004}
+[2018-4-26 15:11:49][app]Process POST/login/login/
+[2018-4-26 15:13:19][login]{"session_key":"Hq16K5+wsdWdYKQn62i4/g==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-26 15:23:52][netmgr]STATUS: 200
+[2018-4-26 15:23:52][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 07:23:52 GMT","connection":"close"}
+[2018-4-26 15:23:52][login]token获取成功9_6-KXN4OoBMTF2rSwhpAeO30bCeiFYXn8bvUZh53z4bJdlw58cPGPlsUe-Ld7YIvEs5bLxnpgxV7yDPm6Al9s1pA2BB6llnT1uMhD8pifXCj2UfsDiLnPdRe_jhUsvYY6HPtRx_y_6GMs-gRAUGGeABAFRR
+[2018-4-26 15:52:02][app]process server: LoginServer.js...
+[2018-4-26 15:52:02][app]register URL mapping: POST /login/:method
+[2018-4-26 15:52:02][app]process server: PayServer.js...
+[2018-4-26 15:52:02][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 15:52:02][app]register URL mapping: POST /pay/pay
+[2018-4-26 15:52:02][app]register URL mapping: POST /pay/present
+[2018-4-26 15:52:02][netmgr]STATUS: 200
+[2018-4-26 15:52:02][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 07:52:02 GMT","connection":"close"}
+[2018-4-26 15:52:02][login]token获取成功9_aoAaZoy6r_yrhqpaA4xkKLiNGyrg_luUEsphJ_KV3WwNSLuMLPvaOa5b8aeA7A3jQe_cfJyJyTeIH2eJMVTlr1jiIeptQrp2AgrV7soGSAyfEZp_J06FwZcwiFLROta4j7ibT4lEcziUmKwFJSUaAFARAC
+[2018-4-26 15:54:02][app]process server: LoginServer.js...
+[2018-4-26 15:54:02][app]register URL mapping: POST /login/:method
+[2018-4-26 15:54:02][app]process server: PayServer.js...
+[2018-4-26 15:54:02][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 15:54:02][app]register URL mapping: POST /pay/pay
+[2018-4-26 15:54:02][app]register URL mapping: POST /pay/present
+[2018-4-26 15:54:02][netmgr]STATUS: 200
+[2018-4-26 15:54:02][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 07:54:02 GMT","connection":"close"}
+[2018-4-26 15:54:02][login]token获取成功9_aoAaZoy6r_yrhqpaA4xkKLiNGyrg_luUEsphJ_KV3WwNSLuMLPvaOa5b8aeA7A3jQe_cfJyJyTeIH2eJMVTlr1jiIeptQrp2AgrV7soGSAyfEZp_J06FwZcwiFLROta4j7ibT4lEcziUmKwFJSUaAFARAC
+[2018-4-26 15:54:14][app]Process GET/login/
+[2018-4-26 15:54:14][app]Process GET/favicon.ico
+[2018-4-26 15:54:20][app]process server: LoginServer.js...
+[2018-4-26 15:54:20][app]register URL mapping: POST /login/:method
+[2018-4-26 15:54:20][app]process server: PayServer.js...
+[2018-4-26 15:54:20][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 15:54:20][app]register URL mapping: POST /pay/pay
+[2018-4-26 15:54:20][app]register URL mapping: POST /pay/present
+[2018-4-26 15:54:20][netmgr]STATUS: 200
+[2018-4-26 15:54:20][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 07:54:20 GMT","connection":"close"}
+[2018-4-26 15:54:20][login]token获取成功9_aoAaZoy6r_yrhqpaA4xkKLiNGyrg_luUEsphJ_KV3WwNSLuMLPvaOa5b8aeA7A3jQe_cfJyJyTeIH2eJMVTlr1jiIeptQrp2AgrV7soGSAyfEZp_J06FwZcwiFLROta4j7ibT4lEcziUmKwFJSUaAFARAC
+[2018-4-26 15:54:23][app]Process GET/login/
+[2018-4-26 15:54:30][app]Process GET/login/
+[2018-4-26 15:54:36][app]Process GET/login/
+[2018-4-26 15:54:43][app]Process GET/login/
+[2018-4-26 15:54:55][app]process server: LoginServer.js...
+[2018-4-26 15:54:55][app]register URL mapping: POST /login/:method
+[2018-4-26 15:54:55][app]register URL mapping: POST /login/
+[2018-4-26 15:54:55][app]process server: PayServer.js...
+[2018-4-26 15:54:55][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 15:54:55][app]register URL mapping: POST /pay/pay
+[2018-4-26 15:54:55][app]register URL mapping: POST /pay/present
+[2018-4-26 15:54:55][netmgr]STATUS: 200
+[2018-4-26 15:54:55][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 07:54:55 GMT","connection":"close"}
+[2018-4-26 15:54:55][login]token获取成功9_aoAaZoy6r_yrhqpaA4xkKLiNGyrg_luUEsphJ_KV3WwNSLuMLPvaOa5b8aeA7A3jQe_cfJyJyTeIH2eJMVTlr1jiIeptQrp2AgrV7soGSAyfEZp_J06FwZcwiFLROta4j7ibT4lEcziUmKwFJSUaAFARAC

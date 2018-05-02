@@ -1,0 +1,72 @@
+
+[2018-4-26 12:42:20][app]process server: LoginServer.js...
+[2018-4-26 12:42:20][app]register URL mapping: GET /login/
+[2018-4-26 12:42:20][app]register URL mapping: POST /login/:method
+[2018-4-26 12:42:20][app]process server: PayServer.js...
+[2018-4-26 12:42:20][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:42:20][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:42:20][app]register URL mapping: POST /pay/present
+[2018-4-26 12:42:20][app]process server: TokenServer.js...
+[2018-4-26 12:42:20][app]register URL mapping: POST /pay/getToken
+[2018-4-26 12:42:20][app]register URL mapping: POST /pay/refreshToken
+[2018-4-26 12:47:48][app]Process POST/getToken
+[2018-4-26 12:48:23][app]Process POST/getToken
+[2018-4-26 12:49:18][app]process server: LoginServer.js...
+[2018-4-26 12:49:18][app]register URL mapping: GET /login/
+[2018-4-26 12:49:18][app]register URL mapping: POST /login/:method
+[2018-4-26 12:49:18][app]process server: PayServer.js...
+[2018-4-26 12:49:18][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:49:18][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:49:18][app]register URL mapping: POST /pay/present
+[2018-4-26 12:49:18][app]process server: TokenServer.js...
+[2018-4-26 12:49:18][app]register URL mapping: POST /pay/getToken
+[2018-4-26 12:49:18][app]register URL mapping: POST /pay/refreshToken
+[2018-4-26 12:49:54][app]process server: TokenServer.js...
+[2018-4-26 12:49:54][app]register URL mapping: POST /token/getToken
+[2018-4-26 12:49:54][app]register URL mapping: POST /token/refreshToken
+[2018-4-26 12:50:23][app]Process POST/token/getToken
+[2018-4-26 12:50:29][app]Process POST/token/getToken
+[2018-4-26 12:50:31][app]Process POST/token/getToken
+[2018-4-26 12:50:32][app]Process POST/token/getToken
+[2018-4-26 12:50:33][app]Process POST/token/getToken
+[2018-4-26 12:50:34][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [a1GrZa02341512]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [Z2OqHA02343064]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [dJQIpa0234sha2]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [sibqxa02343054]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [fCAZya02343064]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [xb17cA02441501]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [vD9qLA02443054]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [fToXgA02442790]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [nWj5ua02442974]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [y0244sha2]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [jp02443054]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [w8bS3a02442974]"}
+[2018-4-26 12:50:44][login]undefined-----undefined---token获取成功{"errcode":41002,"errmsg":"appid missing hint: [rwvoZa02443612]"}
+[2018-4-26 12:51:09][app]process server: TokenServer.js...
+[2018-4-26 12:51:09][app]register URL mapping: POST /token/getToken
+[2018-4-26 12:51:09][app]register URL mapping: POST /token/refreshToken
+[2018-4-26 12:51:46][app]Process POST/token/getToken
+[2018-4-26 12:52:53][app]Process POST/token/getToken
+[2018-4-26 12:53:27][app]Process POST/token/getToken
+[2018-4-26 12:54:25][app]process server: TokenServer.js...
+[2018-4-26 12:54:25][app]register URL mapping: POST /token/getToken
+[2018-4-26 12:54:25][app]register URL mapping: POST /token/refreshToken
+[2018-4-26 12:54:37][app]Process POST/token/getToken
+[2018-4-26 12:55:46][app]Process POST/token/getToken
+[2018-4-26 12:55:46][app]Process POST/token/getToken
+[2018-4-26 12:55:46][app]Process POST/token/getToken
+[2018-4-26 12:55:46][app]Process POST/token/getToken
+[2018-4-26 12:56:38][app]Process POST/token/getToken
+[2018-4-26 12:56:54][app]process server: TokenServer.js...
+[2018-4-26 12:56:54][app]register URL mapping: POST /token/getToken
+[2018-4-26 12:56:54][app]register URL mapping: POST /token/refreshToken
+[2018-4-26 12:56:59][app]Process POST/token/getToken
+[2018-4-26 12:59:17][app]process server: TokenServer.js...
+[2018-4-26 12:59:17][app]register URL mapping: POST /token/getToken
+[2018-4-26 12:59:17][app]register URL mapping: POST /token/refreshToken
+[2018-4-26 12:59:22][app]Process POST/token/getToken
+[2018-4-26 12:59:25][app]Process POST/token/getToken
+[2018-4-26 12:59:25][app]Process POST/token/getToken
+[2018-4-26 12:59:25][app]Process POST/token/getToken
+[2018-4-26 12:59:33][app]Process POST/token/getToken
+[2018-4-26 12:59:56][app]Process POST/token/getToken

@@ -1,0 +1,50 @@
+
+[2018-4-26 12:07:05][app]process server: LoginServer.js...
+[2018-4-26 12:07:05][app]register URL mapping: GET /login/
+[2018-4-26 12:07:05][app]register URL mapping: POST /login/:method
+[2018-4-26 12:07:05][app]process server: PayServer.js...
+[2018-4-26 12:07:05][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:07:05][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:07:05][app]register URL mapping: POST /pay/present
+[2018-4-26 12:08:02][app]process server: LoginServer.js...
+[2018-4-26 12:08:03][app]register URL mapping: GET /login/
+[2018-4-26 12:08:03][app]register URL mapping: POST /login/:method
+[2018-4-26 12:08:03][app]process server: PayServer.js...
+[2018-4-26 12:08:03][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:08:03][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:08:03][app]register URL mapping: POST /pay/present
+[2018-4-26 12:50:23][app]process server: LoginServer.js...
+[2018-4-26 12:50:23][app]register URL mapping: GET /login/
+[2018-4-26 12:50:23][app]register URL mapping: POST /login/:method
+[2018-4-26 12:50:23][app]process server: PayServer.js...
+[2018-4-26 12:50:23][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:50:23][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:50:23][app]register URL mapping: POST /pay/present
+[2018-4-26 12:53:40][app]process server: LoginServer.js...
+[2018-4-26 12:53:40][app]register URL mapping: GET /login/
+[2018-4-26 12:53:40][app]register URL mapping: POST /login/:method
+[2018-4-26 12:53:40][app]process server: PayServer.js...
+[2018-4-26 12:53:40][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:53:40][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:53:40][app]register URL mapping: POST /pay/present
+[2018-4-26 12:54:37][app]process server: LoginServer.js...
+[2018-4-26 12:54:37][app]register URL mapping: GET /login/
+[2018-4-26 12:54:37][app]register URL mapping: POST /login/:method
+[2018-4-26 12:54:37][app]process server: PayServer.js...
+[2018-4-26 12:54:37][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:54:37][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:54:37][app]register URL mapping: POST /pay/present
+[2018-4-26 12:57:10][app]process server: LoginServer.js...
+[2018-4-26 12:57:10][app]register URL mapping: GET /login/
+[2018-4-26 12:57:10][app]register URL mapping: POST /login/:method
+[2018-4-26 12:57:10][app]process server: PayServer.js...
+[2018-4-26 12:57:10][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:57:10][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:57:10][app]register URL mapping: POST /pay/present
+[2018-4-26 12:59:22][app]process server: LoginServer.js...
+[2018-4-26 12:59:22][app]register URL mapping: GET /login/
+[2018-4-26 12:59:22][app]register URL mapping: POST /login/:method
+[2018-4-26 12:59:22][app]process server: PayServer.js...
+[2018-4-26 12:59:22][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 12:59:22][app]register URL mapping: POST /pay/pay
+[2018-4-26 12:59:22][app]register URL mapping: POST /pay/present

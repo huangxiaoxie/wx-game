@@ -1,0 +1,116 @@
+
+[2018-4-26 13:00:33][app]process server: LoginServer.js...
+[2018-4-26 13:00:33][app]register URL mapping: GET /login/
+[2018-4-26 13:00:33][app]register URL mapping: POST /login/:method
+[2018-4-26 13:00:33][app]process server: PayServer.js...
+[2018-4-26 13:00:33][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:00:33][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:00:33][app]register URL mapping: POST /pay/present
+[2018-4-26 13:01:48][app]process server: LoginServer.js...
+[2018-4-26 13:01:48][app]register URL mapping: GET /login/
+[2018-4-26 13:01:48][app]register URL mapping: POST /login/:method
+[2018-4-26 13:01:48][app]process server: PayServer.js...
+[2018-4-26 13:01:48][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:01:48][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:01:48][app]register URL mapping: POST /pay/present
+[2018-4-26 13:01:49][netmgr]STATUS: 204
+[2018-4-26 13:01:49][netmgr]HEADERS: {"date":"Thu, 26 Apr 2018 05:01:49 GMT","connection":"close"}
+[2018-4-26 13:02:17][app]process server: LoginServer.js...
+[2018-4-26 13:02:17][app]register URL mapping: GET /login/
+[2018-4-26 13:02:17][app]register URL mapping: POST /login/:method
+[2018-4-26 13:02:17][app]process server: PayServer.js...
+[2018-4-26 13:02:17][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:02:17][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:02:17][app]register URL mapping: POST /pay/present
+[2018-4-26 13:02:17][netmgr]STATUS: 204
+[2018-4-26 13:02:17][netmgr]HEADERS: {"date":"Thu, 26 Apr 2018 05:02:17 GMT","connection":"close"}
+[2018-4-26 13:02:31][app]process server: LoginServer.js...
+[2018-4-26 13:02:31][app]register URL mapping: GET /login/
+[2018-4-26 13:02:31][app]register URL mapping: POST /login/:method
+[2018-4-26 13:02:31][app]process server: PayServer.js...
+[2018-4-26 13:02:31][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:02:31][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:02:31][app]register URL mapping: POST /pay/present
+[2018-4-26 13:03:01][app]process server: LoginServer.js...
+[2018-4-26 13:03:01][app]register URL mapping: GET /login/
+[2018-4-26 13:03:01][app]register URL mapping: POST /login/:method
+[2018-4-26 13:03:01][app]process server: PayServer.js...
+[2018-4-26 13:03:01][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:03:01][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:03:01][app]register URL mapping: POST /pay/present
+[2018-4-26 13:03:05][netmgr]STATUS: 200
+[2018-4-26 13:03:05][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"244","date":"Thu, 26 Apr 2018 05:03:05 GMT","connection":"close"}
+[2018-4-26 13:03:05][netmgr]STATUS: 200
+[2018-4-26 13:03:05][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"244","date":"Thu, 26 Apr 2018 05:03:05 GMT","connection":"close"}
+[2018-4-26 13:03:05][netmgr]STATUS: 200
+[2018-4-26 13:03:05][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"244","date":"Thu, 26 Apr 2018 05:03:05 GMT","connection":"close"}
+[2018-4-26 13:03:05][netmgr]STATUS: 200
+[2018-4-26 13:03:05][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"244","date":"Thu, 26 Apr 2018 05:03:05 GMT","connection":"close"}
+[2018-4-26 13:03:15][app]process server: LoginServer.js...
+[2018-4-26 13:03:15][app]register URL mapping: GET /login/
+[2018-4-26 13:03:15][app]register URL mapping: POST /login/:method
+[2018-4-26 13:03:15][app]process server: PayServer.js...
+[2018-4-26 13:03:15][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:03:15][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:03:15][app]register URL mapping: POST /pay/present
+[2018-4-26 13:03:15][netmgr]STATUS: 200
+[2018-4-26 13:03:15][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"244","date":"Thu, 26 Apr 2018 05:03:15 GMT","connection":"close"}
+[2018-4-26 13:03:34][app]process server: LoginServer.js...
+[2018-4-26 13:03:34][app]register URL mapping: GET /login/
+[2018-4-26 13:03:34][app]register URL mapping: POST /login/:method
+[2018-4-26 13:03:34][app]process server: PayServer.js...
+[2018-4-26 13:03:34][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:03:34][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:03:34][app]register URL mapping: POST /pay/present
+[2018-4-26 13:03:34][netmgr]STATUS: 200
+[2018-4-26 13:03:34][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"244","date":"Thu, 26 Apr 2018 05:03:34 GMT","connection":"close"}
+[2018-4-26 13:07:42][app]process server: LoginServer.js...
+[2018-4-26 13:07:42][app]register URL mapping: GET /login/
+[2018-4-26 13:07:42][app]register URL mapping: POST /login/:method
+[2018-4-26 13:07:42][app]process server: PayServer.js...
+[2018-4-26 13:07:42][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:07:42][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:07:42][app]register URL mapping: POST /pay/present
+[2018-4-26 13:07:43][netmgr]STATUS: 200
+[2018-4-26 13:07:43][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"244","date":"Thu, 26 Apr 2018 05:07:43 GMT","connection":"close"}
+[2018-4-26 13:07:43][login]token获取成功9_9Tjgt50gjIC6Tbf2QcbLepc8O6MHyzogTqB9kDqcR3PaQdTFltR1Kaag1UZr571ja6QVNSJANodmFpcmCG_VzTlBIHgcIsXcQcYkCJB9yMYYFeLAd2-tgAYxiRsNRXcAEABFL
+[2018-4-26 13:17:16][app]process server: LoginServer.js...
+[2018-4-26 13:17:16][app]register URL mapping: GET /login/
+[2018-4-26 13:17:16][app]register URL mapping: POST /login/:method
+[2018-4-26 13:17:16][app]process server: PayServer.js...
+[2018-4-26 13:17:16][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:17:16][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:17:16][app]register URL mapping: POST /pay/present
+[2018-4-26 13:17:16][netmgr]STATUS: 200
+[2018-4-26 13:17:16][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"244","date":"Thu, 26 Apr 2018 05:17:16 GMT","connection":"close"}
+[2018-4-26 13:17:16][login]token获取成功9_9Tjgt50gjIC6Tbf2QcbLepc8O6MHyzogTqB9kDqcR3PaQdTFltR1Kaag1UZr571ja6QVNSJANodmFpcmCG_VzTlBIHgcIsXcQcYkCJB9yMYYFeLAd2-tgAYxiRsNRXcAEABFL
+[2018-4-26 13:24:51][app]process server: LoginServer.js...
+[2018-4-26 13:24:51][app]register URL mapping: GET /login/
+[2018-4-26 13:24:51][app]register URL mapping: POST /login/:method
+[2018-4-26 13:24:51][app]process server: PayServer.js...
+[2018-4-26 13:24:51][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:24:51][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:24:51][app]register URL mapping: POST /pay/present
+[2018-4-26 13:24:52][netmgr]STATUS: 200
+[2018-4-26 13:24:52][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 05:24:52 GMT","connection":"close"}
+[2018-4-26 13:24:52][login]token获取成功9_dHr6TNqe3wcw3tKo8Ri2Mikfee-Guf5vh_J1tov8c-frM6sdoREHlDKw7ByQuEXOonIFxhGy5sC98WWG694zpkzvZk0q1q7byHCnFdjgqt6EJ4GKcE-2yRog8i4z6RWe6gxTflbmhY-kj2LPMHReAIAEZJ
+[2018-4-26 13:24:59][app]process server: LoginServer.js...
+[2018-4-26 13:24:59][app]register URL mapping: GET /login/
+[2018-4-26 13:24:59][app]register URL mapping: POST /login/:method
+[2018-4-26 13:24:59][app]process server: PayServer.js...
+[2018-4-26 13:24:59][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:24:59][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:24:59][app]register URL mapping: POST /pay/present
+[2018-4-26 13:24:59][netmgr]STATUS: 200
+[2018-4-26 13:24:59][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 05:24:59 GMT","connection":"close"}
+[2018-4-26 13:24:59][login]token获取成功9_dHr6TNqe3wcw3tKo8Ri2Mikfee-Guf5vh_J1tov8c-frM6sdoREHlDKw7ByQuEXOonIFxhGy5sC98WWG694zpkzvZk0q1q7byHCnFdjgqt6EJ4GKcE-2yRog8i4z6RWe6gxTflbmhY-kj2LPMHReAIAEZJ
+[2018-4-26 13:31:50][app]process server: LoginServer.js...
+[2018-4-26 13:31:50][app]register URL mapping: GET /login/
+[2018-4-26 13:31:50][app]register URL mapping: POST /login/:method
+[2018-4-26 13:31:50][app]process server: PayServer.js...
+[2018-4-26 13:31:50][app]register URL mapping: POST /pay/getBalance
+[2018-4-26 13:31:50][app]register URL mapping: POST /pay/pay
+[2018-4-26 13:31:50][app]register URL mapping: POST /pay/present
+[2018-4-26 13:31:50][netmgr]STATUS: 200
+[2018-4-26 13:31:50][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Thu, 26 Apr 2018 05:31:50 GMT","connection":"close"}
+[2018-4-26 13:31:50][login]token获取成功9_dHr6TNqe3wcw3tKo8Ri2Mikfee-Guf5vh_J1tov8c-frM6sdoREHlDKw7ByQuEXOonIFxhGy5sC98WWG694zpkzvZk0q1q7byHCnFdjgqt6EJ4GKcE-2yRog8i4z6RWe6gxTflbmhY-kj2LPMHReAIAEZJ

@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "node": "registry:dt/node#7.0.0+20170322231424"
+  },
+  "dependencies": {
+    "koa": "registry:dt/koa#2.0.0+20170311193110"
+  }
+}

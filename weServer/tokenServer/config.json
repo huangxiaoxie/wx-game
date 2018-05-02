@@ -1,0 +1,11 @@
+{
+    "debug":true,
+    "DBManager": {
+        "ip": "101.37.87.135",
+        "port": 6379,
+        "select": 1,
+        "flag": {
+        "auth_pass": "cdj@test"
+        }
+    }
+}

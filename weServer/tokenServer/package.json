@@ -1,0 +1,19 @@
+{
+  "name": "koatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node --harmony ./bin/app.js",
+    "test": ""
+  },
+  "author": "fish",
+  "license": "ISC",
+  "dependencies": {
+    "@types/ioredis": "^3.2.7",
+    "ioredis": "^3.2.2",
+    "koa": "2.5.0",
+    "koa-bodyparser": "3.2.0",
+    "koa-router": "7.4.0"
+  }
+}

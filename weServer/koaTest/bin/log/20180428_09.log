@@ -1,0 +1,57 @@
+
+[2018-4-28 09:31:46][app]process server: LoginServer.js...
+[2018-4-28 09:31:46][app]register URL mapping: POST /login/:method
+[2018-4-28 09:31:46][app]register URL mapping: POST /login/
+[2018-4-28 09:31:46][app]process server: PayServer.js...
+[2018-4-28 09:31:46][app]register URL mapping: POST /pay/getBalance
+[2018-4-28 09:31:46][app]register URL mapping: POST /pay/pay
+[2018-4-28 09:31:46][app]register URL mapping: POST /pay/present
+[2018-4-28 09:31:46][netmgr]STATUS: 200
+[2018-4-28 09:31:46][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Sat, 28 Apr 2018 01:31:49 GMT","connection":"close"}
+[2018-4-28 09:31:46][login]token获取成功9_mQsdwaHLqaYUeOqblTQGvbfPO3Dx0vbUTr7B3UeK2RQ2CM4v3mq-kLEZMeCRwGjbfYpPmquY4_M6nh96qBWFr1Jpsv_hsObCg6L0wKg4UxrVmbWEb2p2lw4AjSVQHha8eU040CVUpMAx0aHPKTAbAHAAJQ
+[2018-4-28 09:38:37][app]process server: LoginServer.js...
+[2018-4-28 09:38:37][app]register URL mapping: POST /login/:method
+[2018-4-28 09:38:37][app]register URL mapping: POST /login/
+[2018-4-28 09:38:37][app]process server: PayServer.js...
+[2018-4-28 09:38:37][app]register URL mapping: POST /pay/getBalance
+[2018-4-28 09:38:37][app]register URL mapping: POST /pay/pay
+[2018-4-28 09:38:37][app]register URL mapping: POST /pay/present
+[2018-4-28 09:38:37][netmgr]STATUS: 200
+[2018-4-28 09:38:37][netmgr]HEADERS: {"content-type":"application/json; charset=utf-8","content-length":"265","date":"Sat, 28 Apr 2018 01:38:41 GMT","connection":"close"}
+[2018-4-28 09:38:37][login]token获取成功9_mQsdwaHLqaYUeOqblTQGvbfPO3Dx0vbUTr7B3UeK2RQ2CM4v3mq-kLEZMeCRwGjbfYpPmquY4_M6nh96qBWFr1Jpsv_hsObCg6L0wKg4UxrVmbWEb2p2lw4AjSVQHha8eU040CVUpMAx0aHPKTAbAHAAJQ
+[2018-4-28 09:38:41][app]Process POST/login/login/
+[2018-4-28 09:38:41][login]{"session_key":"TNJZJBmkJ3fZAMcbdTHgBA==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-28 09:38:41][app]Process POST/pay/getBalance/
+[2018-4-28 09:38:41][netmgr]STATUS: 200
+[2018-4-28 09:38:41][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Sat, 28 Apr 2018 01:38:45 GMT","content-length":"142"}
+[2018-4-28 09:38:41][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9097,"gen_balance":9090,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":917,"present_sum":10004}
+[2018-4-28 09:39:41][app]Process POST/login/
+[2018-4-28 09:40:41][app]Process POST/login/
+[2018-4-28 09:41:41][app]Process POST/login/
+[2018-4-28 09:42:41][app]Process POST/login/
+[2018-4-28 09:43:41][app]Process POST/login/
+[2018-4-28 09:44:41][app]Process POST/login/
+[2018-4-28 09:45:41][app]Process POST/login/
+[2018-4-28 09:46:41][app]Process POST/login/
+[2018-4-28 09:47:41][app]Process POST/login/
+[2018-4-28 09:51:08][app]Process POST/login/
+[2018-4-28 09:51:41][app]Process POST/login/
+[2018-4-28 09:52:41][app]Process POST/login/
+[2018-4-28 09:53:41][app]Process POST/login/
+[2018-4-28 09:54:41][app]Process POST/login/
+[2018-4-28 09:55:12][app]Process POST/login/login/
+[2018-4-28 09:55:12][login]{"session_key":"Un7EQGvqyuONVTLM0KnB3g==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-28 09:55:12][app]Process POST/pay/getBalance/
+[2018-4-28 09:55:12][netmgr]STATUS: 200
+[2018-4-28 09:55:12][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Sat, 28 Apr 2018 01:55:16 GMT","content-length":"142"}
+[2018-4-28 09:55:12][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9097,"gen_balance":9090,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":917,"present_sum":10004}
+[2018-4-28 09:55:22][app]Process POST/login/login/
+[2018-4-28 09:55:22][login]{"session_key":"Un7EQGvqyuONVTLM0KnB3g==","openid":"osGjx5AxqFVmI9kyOl8CTIcnZfwI"}
+[2018-4-28 09:55:22][app]Process POST/pay/getBalance/
+[2018-4-28 09:55:23][netmgr]STATUS: 200
+[2018-4-28 09:55:23][netmgr]HEADERS: {"connection":"close","content-type":"application/json; encoding=utf-8","date":"Sat, 28 Apr 2018 01:55:26 GMT","content-length":"142"}
+[2018-4-28 09:55:23][pay]查询成功:{"errcode":0,"errmsg":"ok","balance":9097,"gen_balance":9090,"first_save":0,"save_amt":10,"save_sum":10014,"cost_sum":917,"present_sum":10004}
+[2018-4-28 09:56:22][app]Process POST/login/
+[2018-4-28 09:57:22][app]Process POST/login/
+[2018-4-28 09:58:22][app]Process POST/login/
+[2018-4-28 09:59:22][app]Process POST/login/
