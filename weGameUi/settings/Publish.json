@@ -1,0 +1,15 @@
+{
+	"codeGeneration":{
+		"classNamePrefix":"UI_",
+		"codePath":"F:\\work\\worksvn\\qqdmx\\weGame\\src\\ui",
+		"codeType":"TS",
+		"getMemberByName":false,
+		"ignoreNoname":true,
+		"memberNamePrefix":"m_",
+		"packageName":"ui"
+	},
+	"compressDesc":true,
+	"fileExtension":"fui",
+	"packageCount":2,
+	"path":"F:\\work\\worksvn\\qqdmx\\weGame\\bin\\res"
+}

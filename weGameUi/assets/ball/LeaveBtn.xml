@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="266,101" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <controller name="state" exported="true" pages="0,normal,1,share,3,money" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="p4bd2o" xy="0,0"/>
+    <image id="n3_p4bd" name="n3" src="fddh12" xy="30,16" size="45,36">
+      <gearDisplay controller="state" pages="3"/>
+    </image>
+    <text id="n4_p4bd" name="moneyTxt" xy="26,53" size="53,34" font="黑体" fontSize="30" bold="true" text="100">
+      <gearDisplay controller="state" pages="3"/>
+    </text>
+    <text id="n5_p4bd" name="title" xy="58,25" size="157,49" font="黑体" fontSize="35" align="center" vAlign="middle" autoSize="none" bold="true" text="收集">
+      <gearDisplay controller="state" pages="0,1,3"/>
+      <gearXY controller="state" pages="0" values="58,25" default="93,23"/>
+      <gearText controller="state" pages="0" values="收集" default="双倍收集"/>
+    </text>
+    <image id="n6_p4bd" name="n6" src="p4bd2p" xy="21,19">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+  </displayList>
+  <Button/>
+</component>

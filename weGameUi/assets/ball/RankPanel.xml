@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="tab" autoRadioGroupDepth="true" exported="true" pages="0,,1," selected="0"/>
+  <displayList>
+    <graph id="n0_bjvq" name="n0" xy="0,0" size="750,1334" type="rect" lineSize="0" fillColor="#80000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <image id="n1_bjvq" name="n1" src="bjvq4r" xy="78,171" group="n7_bjvq"/>
+    <component id="n2_bjvq" name="closeBtn" src="bjvq4t" xy="633,196" group="n7_bjvq"/>
+    <component id="n3_bjvq" name="listCon" src="cemn4y" xy="78,376" size="625,738" group="n7_bjvq"/>
+    <component id="n5_bjvq" name="chapterTab" src="bjvq4x" xy="352,279" group="n7_bjvq">
+      <Button title="关卡榜" controller="tab" page="1"/>
+    </component>
+    <component id="n4_bjvq" name="powerTab" src="bjvq4x" xy="106,279" group="n7_bjvq">
+      <gearDisplay controller="tab" pages="0,1"/>
+      <Button checked="true" title="能力榜" controller="tab" page="0"/>
+    </component>
+    <text id="n6_bjvq" name="n6" xy="132,188" size="495,57" group="n7_bjvq" font="黑体" fontSize="50" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="好友排行"/>
+    <group id="n7_bjvq" name="n7" xy="78,171" size="625,966" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

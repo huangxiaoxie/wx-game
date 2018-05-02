@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <displayList>
+    <graph id="n0_bhxc" name="n0" xy="0,0" size="750,1334" locked="true" type="rect">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <component id="n1_bhxc" name="closeBtn" src="bhxc1" xy="649,1">
+      <relation target="" sidePair="right-right,top-top"/>
+      <Button title="关闭按钮"/>
+    </component>
+    <text id="n3_bhxc" name="nameTxt" xy="296,137" size="147,19" input="true" prompt="输入用户名" fontSize="12" autoSize="none" text="">
+      <relation target="" sidePair="center-center,top-top"/>
+    </text>
+    <text id="n4_bhxc" name="pwdTxt" xy="300,197" size="139,19" input="true" prompt="输入密码" password="true" fontSize="12" autoSize="none" text="">
+      <relation target="n3_bhxc" sidePair="center-center,top-top"/>
+    </text>
+    <component id="n5_bhxc" name="loginBtn" src="bhxc1" xy="331,283" size="100,46">
+      <relation target="" sidePair="center-center,top-top"/>
+      <Button title="登录"/>
+    </component>
+    <component id="n6_pr18" name="getBtn" src="bhxc1" xy="331,354" size="100,43">
+      <relation target="" sidePair="center-center,top-top"/>
+      <Button title="查询"/>
+    </component>
+    <component id="n7_pr18" name="payBtn" src="bhxc1" xy="331,422" size="100,45">
+      <relation target="" sidePair="center-center,top-top"/>
+      <Button title="支付"/>
+    </component>
+    <component id="n8_pr18" name="giveBtn" src="bhxc1" xy="331,492" size="100,58">
+      <relation target="" sidePair="center-center,top-top"/>
+      <Button title="赠送"/>
+    </component>
+    <component id="n9_pr18" name="cancelBtn" src="bhxc1" xy="331,575" size="100,50">
+      <relation target="" sidePair="center-center,top-top"/>
+      <Button title="取消"/>
+    </component>
+  </displayList>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ut94qh5e" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="x0fb0" name="clip_num.png" path="/" exported="true"/>
+    <image id="x0fb1" name="clip_selectBox.png" path="/" exported="true"/>
+    <image id="x0fb2" name="button.png" path="/" exported="true"/>
+  </resources>
+  <publish name="test"/>
+</packageDescription>

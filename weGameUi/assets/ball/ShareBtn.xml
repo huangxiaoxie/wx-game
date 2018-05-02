@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="185,81" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="fddhr" xy="0,0" size="185,81">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2" name="title" xy="3,0" size="119,81" font="黑体" fontSize="25" align="center" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="分享激活">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n3_p4bd" name="n3" src="p4bd2p" xy="119,14" size="60,55"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.95"/>
+</component>

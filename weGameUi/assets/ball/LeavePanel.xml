@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="native" exported="true" pages="0,ios,1,android,2,hide" selected="0"/>
+  <displayList>
+    <graph id="n0_mtf8" name="n0" xy="0,0" size="750,1334" type="rect" lineSize="0" fillColor="#80000000">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <text id="n1_mtf8" name="energyTxt" xy="62,376" size="480,277" group="n6_p4bd" font="黑体" fontSize="140" color="#c000ff" align="right" vAlign="middle" autoSize="none" text="384B"/>
+    <text id="n2_mtf8" name="n2" xy="134,98" size="533,144" group="n6_p4bd" font="黑体" fontSize="45" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="离开的这段时间中，&#xA;您获得了"/>
+    <component id="n3_p4bd" name="getBtn" src="p4bd2n" xy="92,1035" size="266,101" group="n6_p4bd" controller="state,0">
+      <gearDisplay controller="native" pages="0,1"/>
+    </component>
+    <component id="n4_p4bd" name="shareBtn" src="p4bd2n" xy="422,1035" size="266,101" group="n6_p4bd" controller="state,1">
+      <gearDisplay controller="native" pages="0,1"/>
+    </component>
+    <image id="n7_s4hq" name="n7" src="fddhv" xy="550,470" size="70,90" group="n6_p4bd"/>
+    <group id="n6_p4bd" name="n6" xy="62,98" size="626,1038" advanced="true">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </group>
+  </displayList>
+</component>

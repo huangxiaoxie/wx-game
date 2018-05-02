@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="185,81" extention="Button">
+  <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
+  <displayList>
+    <image id="n1" name="n1" src="fddhr" xy="0,0">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <text id="n2" name="title" xy="0,0" size="107,81" font="黑体" fontSize="25" align="right" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="255">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <image id="n4_bnnk" name="icon" src="fddh12" xy="110,22" size="45,36"/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.95"/>
+</component>

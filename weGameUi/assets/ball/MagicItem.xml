@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="207,300">
+  <controller name="state" exported="true" pages="0,normal,1,get" selected="0"/>
+  <displayList>
+    <image id="n0_bnnk" name="n0" src="fddhs" xy="0,0" locked="true"/>
+    <text id="n2_bnnk" name="nameTxt" xy="4,13" size="199,39" font="黑体" fontSize="35" color="#ffffff" align="center" autoSize="none" bold="true" text="点击 x6">
+      <relation target="" sidePair="width-width"/>
+    </text>
+    <loader id="n4_bnnk" name="iconImg" xy="57,59" size="100,100" url="ui://tlo9kvuvfddht"/>
+    <text id="n5_bnnk" name="timeTxt" xy="9,170" size="187,37" font="黑体" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="时间:30m"/>
+    <component id="n9_bnnk" name="buyBtn" src="p4bd2q" xy="13,211">
+      <gearDisplay controller="state" pages="0"/>
+      <Button title="分享激活"/>
+    </component>
+    <image id="n12_p4bd" name="n12" src="p4bd2u" xy="13,212">
+      <gearDisplay controller="state" pages="1"/>
+    </image>
+  </displayList>
+</component>

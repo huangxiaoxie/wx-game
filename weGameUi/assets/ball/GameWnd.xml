@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="750,1334">
+  <controller name="shoptab" pages="0,,1,,2,,3," selected="0"/>
+  <controller name="native" exported="true" pages="0,android,1,ios,2,ipx" selected="1"/>
+  <displayList>
+    <image id="n8_fddh" name="n8" src="fddhq" xy="0,0" size="750,1334" locked="true">
+      <relation target="" sidePair="width-width,height-height"/>
+    </image>
+    <component id="n1_pr18" name="phyCon" src="pr18g" xy="0,0" size="750,938">
+      <relation target="" sidePair="width-width"/>
+      <relation target="n14_bnnk" sidePair="bottomext-top"/>
+    </component>
+    <image id="n2_fddh" name="n2" src="fddhz" xy="5,0" size="742,125" group="n15_bnnk">
+      <relation target="" sidePair="width-width,top-top"/>
+    </image>
+    <text id="n3_fddh" name="levelTxt" xy="23,15" size="249,43" group="n15_bnnk" font="黑体" fontSize="35" autoSize="none" bold="true" text="第 77 关">
+      <relation target="" sidePair="left-left,top-top"/>
+    </text>
+    <text id="n4_fddh" name="energyTxt" xy="417,23" size="123,39" group="n15_bnnk" font="黑体" fontSize="35" align="right" vAlign="middle" autoSize="none" bold="true" singleLine="true" text="32.17T">
+      <gearDisplay controller="native" pages="0,1,2"/>
+      <gearXY controller="native" pages="0,1,2" values="417,23|417,23|608,23"/>
+    </text>
+    <image id="n5_fddh" name="n5" src="fddhv" xy="551,13" group="n15_bnnk">
+      <relation target="n2_fddh" sidePair="left-left,top-top"/>
+    </image>
+    <component id="n7_fddh" name="progressBar" src="fddh1t" xy="22,76" size="702,32" group="n15_bnnk">
+      <relation target="" sidePair="width-width"/>
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <text id="n27_ghxq" name="energyAddTxt" xy="609,23" size="171,42" group="n15_bnnk" font="黑体" fontSize="35" vAlign="middle" autoSize="none" bold="true" text="5555A">
+      <gearDisplay controller="native" pages="0,1,2"/>
+      <gearXY controller="native" pages="2" values="375,21" default="609,23"/>
+      <relation target="n5_fddh" sidePair="left-left,top-top"/>
+    </text>
+    <group id="n15_bnnk" name="n15" xy="5,0" size="775,125" collapsed="true"/>
+    <image id="n9_fddh" name="n9" src="fddh1a" xy="3,843" size="742,490" group="n14_bnnk">
+      <relation target="" sidePair="width-width"/>
+      <relation target="" sidePair="center-center,bottom-bottom"/>
+    </image>
+    <component id="n10_fddh" name="ballTab" src="fddh1w" xy="23,951" group="n14_bnnk">
+      <relation target="n9_fddh" sidePair="top-top,left-left"/>
+      <Button checked="true" title="球球" controller="shoptab" page="0"/>
+    </component>
+    <component id="n6_fddh" name="getBtn" src="fddh1s" xy="543,859" group="n14_bnnk">
+      <relation target="n9_fddh" sidePair="right-right,top-top"/>
+    </component>
+    <component id="n11_fddh" name="skillTab" src="fddh1w" xy="167,951" group="n14_bnnk">
+      <relation target="n10_fddh" sidePair="left-left,top-top"/>
+      <Button title="技能" controller="shoptab" page="1"/>
+    </component>
+    <component id="n12_fddh" name="magicBallTab" src="fddh1w" xy="311,951" group="n14_bnnk">
+      <relation target="n10_fddh" sidePair="top-top,left-left"/>
+      <Button title="魔法" controller="shoptab" page="2"/>
+    </component>
+    <component id="n13_fddh" name="shopTab" src="fddh1w" xy="455,951" group="n14_bnnk">
+      <gearDisplay controller="native" pages="0"/>
+      <relation target="n10_fddh" sidePair="top-top,left-left"/>
+      <Button title="商店" controller="shoptab" page="3"/>
+    </component>
+    <list id="n16_bnnk" name="ballList" xy="18,1021" size="710,300" group="n14_bnnk" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://tlo9kvuvpr18f" autoClearItems="true">
+      <gearDisplay controller="shoptab" pages="0"/>
+      <relation target="n9_fddh" sidePair="width-width,top-top"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n18_bnnk" name="skillList" xy="19,1021" size="710,300" group="n14_bnnk" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://tlo9kvuvbnnk1y" autoClearItems="true">
+      <gearDisplay controller="shoptab" pages="1"/>
+      <relation target="n9_fddh" sidePair="top-top,width-width"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <image id="n20_bnnk" name="n20" src="fddh12" xy="157,894" group="n14_bnnk">
+      <relation target="n21_bnnk" sidePair="left-left,top-top"/>
+    </image>
+    <text id="n21_bnnk" name="moneyNumTxt" xy="20,891" size="133,39" group="n14_bnnk" font="黑体" fontSize="35" align="right" vAlign="middle" autoSize="none" bold="true" text="688888">
+      <relation target="n9_fddh" sidePair="top-top,left-left"/>
+    </text>
+    <list id="n22_bnnk" name="shopList" xy="24,1020" size="704,300" group="n14_bnnk" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://tlo9kvuvbnnk21" autoClearItems="true">
+      <gearDisplay controller="shoptab" pages="3"/>
+      <relation target="n9_fddh" sidePair="top-top,width-width"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <list id="n25_bnnk" name="magicBallList" xy="18,1021" size="710,300" group="n14_bnnk" layout="row" overflow="scroll" scroll="horizontal" colGap="10" defaultItem="ui://tlo9kvuvpr18f" autoClearItems="true">
+      <gearDisplay controller="shoptab" pages="2"/>
+      <relation target="n9_fddh" sidePair="top-top,width-width"/>
+      <item/>
+      <item/>
+      <item/>
+      <item/>
+    </list>
+    <component id="n34_bjvq" name="friendBtn" src="fddh1w" xy="456,951" group="n14_bnnk">
+      <gearDisplay controller="native" pages="0,1,2"/>
+      <gearXY controller="native" pages="0,1,2" values="599,951|456,951|462,951"/>
+      <relation target="n9_fddh" sidePair="top-top,left-left"/>
+      <Button title="好友"/>
+    </component>
+    <group id="n14_bnnk" name="n14" xy="3,843" size="742,490" collapsed="true"/>
+    <movieclip id="n29_jg5o" name="tabAni" src="jg5o48" xy="637,900" pivot="0.55,0.55" anchor="true" locked="true"/>
+    <movieclip id="n30_o0ct" name="clickAni" src="o0ct4a" xy="281,697" pivot="0.5,0.5" anchor="true" visible="false"/>
+    <component id="n33_q6mx" name="testBtn" src="bnnk20" xy="568,-2" hideByEditor="true" visible="false">
+      <Button title="测试"/>
+    </component>
+  </displayList>
+  <transition name="energyAni">
+    <item time="0" type="Pivot" target="n4_fddh" value="0.5,0.5"/>
+    <item time="0" type="Scale" target="n4_fddh" tween="true" startValue="1,1" endValue="1.1,1.1" duration="3" ease="Linear"/>
+    <item time="3" type="Scale" target="n4_fddh" tween="true" startValue="1.1,1.1" endValue="0.9,0.9" duration="3" ease="Linear"/>
+    <item time="6" type="Scale" target="n4_fddh" tween="true" startValue="0.9,0.9" endValue="1,1" duration="3" ease="Linear"/>
+    <item time="9" type="Pivot" target="n4_fddh" value="0,0"/>
+  </transition>
+</component>

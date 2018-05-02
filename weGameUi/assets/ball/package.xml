@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tlo9kvuv" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="bhxc0" name="TestPage.xml" path="/" exported="true"/>
+    <component id="bhxc1" name="Button1.xml" path="/"/>
+    <image id="db642" name="sss.png" path="/image/" exported="true" scale="9grid" scale9grid="25,40,50,18" atlas="1"/>
+    <image id="db646" name="progress.png" path="/image/" exported="true" scale="9grid" scale9grid="13,4,26,6" atlas="1"/>
+    <component id="pr187" name="GameWnd.xml" path="/" exported="true"/>
+    <image id="pr188" name="vg_privacy.png" path="/image/"/>
+    <image id="pr189" name="vg_timer.png" path="/image/"/>
+    <image id="pr18a" name="vg_close.png" path="/image/"/>
+    <image id="pr18b" name="vg_cta.png" path="/image/"/>
+    <image id="pr18c" name="vg_cta_disabled.png" path="/image/"/>
+    <image id="pr18d" name="vg_mute_off.png" path="/image/"/>
+    <image id="pr18e" name="vg_mute_on.png" path="/image/"/>
+    <component id="pr18f" name="BallItem.xml" path="/" exported="true"/>
+    <component id="pr18g" name="BallCon.xml" path="/"/>
+    <component id="rhmah" name="ScoreUnit.xml" path="/" exported="true"/>
+    <component id="rhmai" name="MoveBallItem.xml" path="/" exported="true"/>
+    <image id="fddhj" name="6.png" path="/ballImg/" exported="true"/>
+    <image id="fddhk" name="7.png" path="/ballImg/" exported="true"/>
+    <image id="fddhl" name="14.png" path="/ballImg/" exported="true"/>
+    <image id="fddhm" name="24.png" path="/ballImg/" exported="true"/>
+    <image id="fddhn" name="ball01.png" path="/ballImg/" exported="true"/>
+    <image id="fddho" name="ball02.png" path="/ballImg/" exported="true"/>
+    <image id="fddhp" name="ball03.png" path="/ballImg/" exported="true"/>
+    <image id="fddhq" name="bg.jpg" path="/ballImg/" exported="true" atlas="alone_npot"/>
+    <image id="fddhr" name="buybtn.png" path="/ballImg/" exported="true"/>
+    <image id="fddhs" name="cardBg.png" path="/ballImg/" exported="true"/>
+    <image id="fddht" name="clickImg.png" path="/ballImg/" exported="true"/>
+    <image id="fddhu" name="double.png" path="/ballImg/" exported="true"/>
+    <image id="fddhv" name="energy.png" path="/ballImg/" exported="true"/>
+    <image id="fddhw" name="fire.png" path="/ballImg/" exported="true"/>
+    <image id="fddhx" name="getBtn.png" path="/ballImg/" exported="true"/>
+    <image id="fddhy" name="gray.png" path="/ballImg/" exported="true"/>
+    <image id="fddhz" name="guibg.png" path="/ballImg/" exported="true" scale="9grid" scale9grid="186,32,372,64"/>
+    <image id="fddh10" name="lighting.png" path="/ballImg/" exported="true"/>
+    <image id="fddh11" name="lock.png" path="/ballImg/" exported="true"/>
+    <image id="fddh12" name="money.png" path="/ballImg/" exported="true"/>
+    <image id="fddh13" name="money1.png" path="/ballImg/" exported="true"/>
+    <image id="fddh14" name="money2.png" path="/ballImg/" exported="true"/>
+    <image id="fddh15" name="money3.png" path="/ballImg/" exported="true"/>
+    <image id="fddh16" name="poison.png" path="/ballImg/" exported="true"/>
+    <image id="fddh17" name="progress.png" path="/ballImg/" exported="true" scale="9grid" scale9grid="13,5,461,12"/>
+    <image id="fddh18" name="progressbg.png" path="/ballImg/" exported="true" scale="9grid" scale9grid="124,9,248,7"/>
+    <image id="fddh19" name="setting.png" path="/ballImg/" exported="true"/>
+    <image id="fddh1a" name="shopBg.png" path="/ballImg/" exported="true" scale="9grid" scale9grid="279,122,159,245"/>
+    <image id="fddh1b" name="snow.png" path="/ballImg/" exported="true"/>
+    <font id="fddh1c" name="numFont.fnt" path="/" exported="true"/>
+    <image id="fddh1d" name="1.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1e" name="2.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1f" name="3.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1g" name="4.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1h" name="5.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1i" name="6.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1j" name="7.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1k" name="8.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1l" name="9.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1m" name="B.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="fddh1n" name="0.png" path="/numfont/" exported="true" atlas="4"/>
+    <component id="fddh1o" name="BuyBtn.xml" path="/"/>
+    <image id="fddh1p" name="uplevel.png" path="/ballImg/" exported="true"/>
+    <component id="fddh1q" name="LockBtn.xml" path="/"/>
+    <component id="fddh1s" name="GetBtn.xml" path="/"/>
+    <component id="fddh1t" name="EnergyProgress.xml" path="/"/>
+    <image id="fddh1u" name="tabselect.png" path="/ballImg/" exported="true"/>
+    <image id="fddh1v" name="tabnormal.png" path="/ballImg/" exported="true"/>
+    <component id="fddh1w" name="TabBtn.xml" path="/"/>
+    <component id="bnnk1x" name="SetBtn.xml" path="/"/>
+    <component id="bnnk1y" name="MagicItem.xml" path="/"/>
+    <component id="bnnk1z" name="MoneyBtn.xml" path="/"/>
+    <component id="bnnk20" name="NormalBtn.xml" path="/"/>
+    <component id="bnnk21" name="RechargeItem.xml" path="/"/>
+    <image id="bnnk22" name="unit1.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk23" name="unit2.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk24" name="unit3.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk25" name="unit4.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk26" name="unit5.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk27" name="ball_thunder.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk28" name="ball_fire.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk29" name="ball_lighting.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk2a" name="ball_poison.png" path="/ballImg/" exported="true"/>
+    <image id="bnnk2b" name="ball_snow.png" path="/ballImg/" exported="true"/>
+    <image id="me0m2c" name="VIP1.png" path="/ballImg/" exported="true"/>
+    <image id="me0m2d" name="VIP2.png" path="/ballImg/" exported="true"/>
+    <image id="me0m2e" name="VIP3.png" path="/ballImg/" exported="true"/>
+    <image id="me0m2f" name="VIP4.png" path="/ballImg/" exported="true"/>
+    <image id="me0m2g" name="speed.png" path="/ballImg/" exported="true"/>
+    <image id="me0m2i" name="thunder.png" path="/ballImg/" exported="true"/>
+    <image id="me0m2j" name="share.jpg" path="/ballImg/" exported="true" atlas="alone_npot"/>
+    <component id="mtf82l" name="LeavePanel.xml" path="/" exported="true"/>
+    <component id="p4bd2n" name="LeaveBtn.xml" path="/"/>
+    <image id="p4bd2o" name="leaveBtn.png" path="/ballImg/" exported="true"/>
+    <image id="p4bd2p" name="shareIcon.png" path="/ballImg/" exported="true"/>
+    <component id="p4bd2q" name="ShareBtn.xml" path="/"/>
+    <image id="p4bd2r" name="start.jpg" path="/ballImg/" exported="true" atlas="alone_npot"/>
+    <image id="p4bd2s" name="noticeBg.png" path="/ballImg/"/>
+    <component id="p4bd2t" name="NoticePanel.xml" path="/" exported="true"/>
+    <image id="p4bd2u" name="haveGet.png" path="/ballImg/" exported="true"/>
+    <image id="p4bd2v" name="L.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd2w" name="M.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd2x" name="N.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd2y" name="O.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd2z" name="P.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd30" name="Q.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd31" name="R.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd32" name="S.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd33" name="T.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd34" name="U.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd35" name="V.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd36" name="W.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd37" name="X.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd38" name="Y.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd39" name="Z.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3a" name="A.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3c" name="C.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3d" name="D.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3e" name="E.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3f" name="F.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3g" name="G.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3h" name="H.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3i" name="I.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3j" name="J.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3k" name="K.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="p4bd3l" name="point.png" path="/numfont/" exported="true" atlas="4"/>
+    <image id="lyas3m" name="ball04.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3n" name="ball05.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3o" name="ball06.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3p" name="ball07.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3q" name="ball08.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3r" name="ball09.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3s" name="ball10.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3t" name="ball11.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3u" name="ball12.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3v" name="ball13.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3w" name="ball14.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3x" name="ball15.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3y" name="ball16.png" path="/ballImg/" exported="true"/>
+    <image id="lyas3z" name="ball17.png" path="/ballImg/" exported="true"/>
+    <image id="lyas40" name="ball18.png" path="/ballImg/" exported="true"/>
+    <image id="lyas41" name="ball19.png" path="/ballImg/" exported="true"/>
+    <image id="lyas42" name="ball20.png" path="/ballImg/" exported="true"/>
+    <image id="lyas43" name="ball21.png" path="/ballImg/" exported="true"/>
+    <image id="lyas44" name="ball22.png" path="/ballImg/" exported="true"/>
+    <image id="lyas45" name="ball23.png" path="/ballImg/" exported="true"/>
+    <image id="lyas46" name="ball24.png" path="/ballImg/" exported="true"/>
+    <image id="lyas47" name="ball25.png" path="/ballImg/" exported="true"/>
+    <movieclip id="jg5o48" name="TapAni.jta" path="/" exported="true" atlas="2"/>
+    <image id="s4hq49" name="money4.png" path="/ballImg/" exported="true"/>
+    <movieclip id="o0ct4a" name="ClickAni.jta" path="/" atlas="3"/>
+    <movieclip id="o0ct4b" name="DeadAni.jta" path="/" exported="true" atlas="3"/>
+    <component id="bjvq4c" name="RankPanel.xml" path="/" exported="true"/>
+    <image id="bjvq4r" name="bg.png" path="/image/"/>
+    <image id="bjvq4s" name="btn_close.png" path="/image/"/>
+    <component id="bjvq4t" name="CloseBtn.xml" path="/"/>
+    <image id="bjvq4v" name="rabkTab0.png" path="/image/"/>
+    <image id="bjvq4w" name="rankTab1.png" path="/image/"/>
+    <component id="bjvq4x" name="RankTabBtn.xml" path="/"/>
+    <component id="cemn4y" name="PanelCon.xml" path="/"/>
+  </resources>
+  <publish name="ball" genCode="true" maxAtlasSize="1024">
+    <atlas name="默认" index="0"/>
+    <atlas name="sss" index="1"/>
+    <atlas compression="true" index="2"/>
+  </publish>
+</packageDescription>

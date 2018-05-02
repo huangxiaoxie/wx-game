@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="207,300">
+  <controller name="lockState" exported="true" pages="0,normal,1,noEnough,2,canUnlock,3,lock" selected="0"/>
+  <displayList>
+    <image id="n4_fddh" name="n4" src="fddhs" xy="0,0"/>
+    <text id="n0_pr18" name="nameTxt" xy="0,8" size="207,41" font="黑体" fontSize="35" color="#ffffff" align="center" autoSize="none" bold="true" text="网球">
+      <relation target="" sidePair="width-width"/>
+    </text>
+    <text id="n1_pr18" name="lvTxt" xy="48,48" size="105,33" font="黑体" fontSize="25" color="#ffffff" align="center" autoSize="none" bold="true" text="Lv.6"/>
+    <loader id="n2_pr18" name="iconImg" xy="54,84" size="90,90" url="ui://tlo9kvuvfddht"/>
+    <text id="n6_fddh" name="attackTxt" xy="5,178" size="199,34" font="黑体" fontSize="25" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" text="999A"/>
+    <component id="n8_fddh" name="upBtn" src="fddh1o" xy="13,208">
+      <gearDisplay controller="lockState" pages="0,1"/>
+      <gearLook controller="lockState" pages="1,2" values="1,0,1,0|1,0,0,1" default="1,0,0,1"/>
+    </component>
+    <component id="n10_fddh" name="lockBtn" src="fddh1q" xy="13,205" grayed="true">
+      <gearDisplay controller="lockState" pages="2,3"/>
+      <gearLook controller="lockState" pages="1,2,3" values="1,0,1,0|1,0,0,1|1,0,1,0" default="1,0,1,1"/>
+    </component>
+  </displayList>
+</component>

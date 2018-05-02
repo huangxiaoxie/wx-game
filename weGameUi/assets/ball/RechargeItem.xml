@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="208,300">
+  <controller name="type" exported="true" pages="0,recharge,1,cost,2,get" selected="0"/>
+  <displayList>
+    <image id="n4_bnnk" name="n4" src="fddhs" xy="0,0"/>
+    <text id="n0_bnnk" name="nameTxt" xy="1,11" size="204,39" font="黑体" fontSize="35" color="#ffffff" align="center" autoSize="none" bold="true" text="点击 x6">
+      <gearDisplay controller="type" pages="1,2"/>
+      <relation target="" sidePair="width-width"/>
+    </text>
+    <loader id="n1_bnnk" name="iconImg" xy="99,126" pivot="0.5,0.5" anchor="true" size="100,100" url="ui://tlo9kvuvfddht" align="center" vAlign="middle"/>
+    <component id="n3_bnnk" name="rechargeBtn" src="bnnk20" xy="10,212">
+      <gearDisplay controller="type" pages="0"/>
+      <Button title="￥ 218"/>
+    </component>
+    <component id="n5_bnnk" name="buyBtn" src="bnnk1z" xy="11,210">
+      <gearDisplay controller="type" pages="1"/>
+    </component>
+    <text id="n6_me0m" name="moneyTxt" xy="6,23" size="137,39" font="黑体" fontSize="35" color="#ffffff" align="right" autoSize="none" bold="true" text="18000">
+      <gearDisplay controller="type" pages="0"/>
+      <relation target="" sidePair="width-width"/>
+    </text>
+    <image id="n7_me0m" name="n7" src="fddh12" xy="148,25">
+      <gearDisplay controller="type" pages="0"/>
+    </image>
+    <image id="n8_p4bd" name="n8" src="p4bd2u" xy="11,206">
+      <gearDisplay controller="type" pages="2"/>
+    </image>
+  </displayList>
+</component>
