@@ -1,0 +1,4 @@
+<res>
+   <item name="comp/bg.png" type="Image" compress="0" pack="1" quality="80" props="sizeGrid=42,22,25,29" picType="0" scale="0"/>
+   <item name="comp/lineBg.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>
